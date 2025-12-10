@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "706ffac3-a259-4321-8620-a3bcfb9876d3",
+      "email": "gaamaral2002@gmail.com",
+      "password": "@Un1f31@22"
+    }
+  ],
+  "shirts": [
+    {
+      "id": "2d148c86-2141-4b0f-ab7d-6f2ae98d10dc",
+      "year": "2021",
+      "title": "Camisa 1 - 2021",
+      "description": "Camisa do Título Paulista",
+      "imageFileName": "2021.jpg"
+    }
+  ]
+}

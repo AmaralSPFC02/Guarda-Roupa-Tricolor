@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ada3469f-1d75-49b6-abdc-c5c298a69971",
+    "year": "2015",
+    "title": "Camisa II Goleiro - Azul Marinho",
+    "description": "Última camisa usada por Rogério Ceni como goleiro do São Paulo",
+    "imageFileName": "2015.jpg"
+  },
+  {
+    "id": "0ea71187-6f8c-490e-8874-6380779a5f3b",
+    "year": "2022",
+    "title": "Camisa III - Branca/Preta",
+    "description": "Camisa em homenagem a jaqueta que Telê Santana utilizou no Mundial de 1992",
+    "imageFileName": "2022.jpg"
+  },
+  {
+    "id": "18c4e65e-5d87-49cf-895b-a6f13c2006a1",
+    "year": "2011",
+    "title": "Camisa II Goleiro - Dourada",
+    "description": "Lembrada por ser a camisa que Rogério Ceni fez seu gol nº 100, contra o Corinthians",
+    "imageFileName": "2011.jpg"
+  },
+  {
+    "id": "8e8c9908-3b87-4bf8-a897-9f7b7873575b",
+    "year": "2024",
+    "title": "Camisa III - Preta/Vermelha",
+    "description": "Edição Especial em estilo \"Tie-Dye\", nunca antes utilizado em camisas tricolores",
+    "imageFileName": "2024.jpg"
+  }
+]
